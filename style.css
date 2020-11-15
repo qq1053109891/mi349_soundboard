@@ -1,0 +1,54 @@
+.audio-wrapper{
+  /* background: #dddddd; */
+  width: 1000px;
+  margin: 0 auto;
+}
+#p1,#p2,#p3,#p4{
+  display: none;
+}
+
+.title{
+  display: inline-block;
+}
+
+.player1{
+  /* text-align: center; */
+  margin: 20px 0;
+  padding: 20px 10px;
+  border: 1px solid #0083EB;
+}
+
+
+.btn{
+background-color: #0083EB;
+width: 60px;
+height: 60px;
+display: inline-block;
+line-height: 60px;
+text-align: center;
+color: #fff;
+font-size: 12px;
+margin-right: 20px;
+
+border-radius: 50%;
+
+}
+
+.orf{
+	 border: 10px double #0083EB!important;
+	
+}
+
+
+.orf1{
+	 border: 10px dotted #0083EB!important;
+	
+	
+}
+
+
+.orf11{
+	 border: 10px dashed #0083EB!important;
+	
+	
+}
